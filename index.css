@@ -1,0 +1,23 @@
+.setumei{
+	font-family: "ヒラギノ角ゴ Std",sans-serif;
+	color: #84ccc9;
+}
+.name a{
+	list-style-type: none;
+}
+p{
+	text-align: center;
+	padding: 10px;
+	 object-fit: cover;
+}
+th,td{
+ text-align: center;
+  object-fit: cover;
+}
+.slider{
+	margin-top: 55px;
+}
+
+a{
+	text-decoration: none;
+}
